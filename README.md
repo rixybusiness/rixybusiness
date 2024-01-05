@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mami</h1>
+****![image](https://github.com/rixybusiness/rixybusiness/assets/155782729/62139338-29ce-43ca-9376-6645d031d3f4)
+
+
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rixybusiness" alt="rixybusiness" /></a> </p>
