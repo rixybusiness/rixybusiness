@@ -1,4 +1,4 @@
-****![image](https://github.com/rixybusiness/rixybusiness/assets/155782729/62139338-29ce-43ca-9376-6645d031d3f4)
+![image](https://github.com/rixybusiness/rixybusiness/assets/155782729/62139338-29ce-43ca-9376-6645d031d3f4)
 
 
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
